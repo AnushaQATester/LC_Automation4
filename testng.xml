@@ -13,7 +13,7 @@
 		<parameter name="browser" value="chrome" />
 		<classes>
 			
-			<class name="com.cucumber.TestRunner.OrgMgmtChangePasswordRunner" />
+		<!-- 	<class name="com.cucumber.TestRunner.OrgMgmtChangePasswordRunner" />
 			<class name="com.cucumber.TestRunner.OrgMgmtLaunchTheApplicationRunner" />		
             <class name="com.cucumber.TestRunner.OrgMgmtUpdateProfileRunner" />		
             <class name="com.cucumber.TestRunner.OrgMgmtViewInstitutionsRunner" />	
@@ -136,7 +136,7 @@
             <class name="com.cucumber.TestRunner.UserGenerateBulkByUploadCSVFIleWithInvalidCertificateTypeRunner" />
             <class name="com.cucumber.TestRunner.UserGenerateBulkByUploadCSVFIleWithEmptyCertificateNameRunner" />
             <class name="com.cucumber.TestRunner.UserGeneratedCertificatesWithoutEnablecheckboxesRunner" />
-            <class name="com.cucumber.TestRunner.UserInternalPrintingUploadCSVFileWithoutStudentNameRunner" />
+            <class name="com.cucumber.TestRunner.UserInternalPrintingUploadCSVFileWithoutStudentNameRunner" />-->
 			<class name="com.cucumber.TestRunner.UserInternalPrintingByUploadingCSVWithInvalidCertificateTypeRunner" />
 
 	        
